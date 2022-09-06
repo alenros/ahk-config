@@ -5,3 +5,5 @@
 !MButton::Volume_Mute
 !p::Media_Play_Pause
 !/::Send ¿
+!;::SEND ¯\_(ツ)_/¯
+!-::SEND 👎
